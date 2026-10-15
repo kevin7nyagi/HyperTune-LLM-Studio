@@ -1,0 +1,7 @@
+{
+  "name": "Ollama HyperTune Studio",
+  "description": "Local LLM chat client, hardware profiler, and speed optimizer for Ollama and GGUF models on AMD and NVIDIA GPUs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
